@@ -1,0 +1,46 @@
+Course Code	Course Title     Mon		 Tue		 Wed		 Thr 		FIR
+
+MA 1227 	Differential     10:00-11:30			 10:00-11:30
+		Equations
+		
+CS 124T		Object 								 10:00-11:300   2:00-03:30
+		Oriented 
+		Programming
+
+CS 124L		Object                                           11:45-02:45
+		Oriented 
+		Programming 
+		LAB(A)
+
+EE-125T         Digital                           10:00-11:30					 10:00:11-30
+		Logic 
+		Design
+
+EE-125L		Digital 	  11:45-02:45							 11:45-02:45 
+		Logic 
+		Design 
+		LAB(A)
+
+EE-125L		Digital 
+		Logic 
+		Design 
+		LAB(B)
+
+ME-126T		Basic    	  				 8:30-10:00 			  8:30-10:00
+		Mechanical 
+		Engineering
+
+EE-127T		Electrical        08:30-10:00  					 08:30-10:00
+		Network
+		Analysis
+
+EE-127L		Electrical 	  11:45-02:45 
+		Network
+		Analysis 
+		LAB(A)
+
+EE-127L		Electrical                                      11:45-02:45
+		Network
+		Analysis 
+		LAB(B)
+

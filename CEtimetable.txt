@@ -1,0 +1,36 @@
+Course Code	Course Title 		Mon		Tue		Wed		THR		FRI
+
+CE-103T 	Engineering 				10:30-12:30
+		Surveying -1 	
+		
+CE-103L 	Engineering 						11:45-02:45
+		Surveying-1 
+		Lab (A)
+
+CE-105T 	Basic Chemistry 			08:30-10:30
+		for Civil 
+		Engineers
+
+MATH-106T 	Differential 						10:00-11:30	                08:30-10:00
+		Equations 
+		/Matll
+
+HU-108T 	Functional English 			08:30-11:30
+		and Communication 
+		Skills
+
+CS-107T 	Fundamentals of 							08:00-10:00
+		Computer 
+		Programing 
+
+CS-107L 	Fundamentals of								11:45-02:45
+		Computer Programing 
+		Lab (A)
+
+CE112T 		Engineering		11:30-01:30
+		Mechanics
+
+CE112L 		Engineering 				12:30-03:30
+		Mechanics 	
+		Lab (A)
+

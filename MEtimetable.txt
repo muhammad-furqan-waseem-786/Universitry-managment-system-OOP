@@ -1,0 +1,30 @@
+Course		Course Title         MON	     TUE	      WED       	THR     	FRI
+ Code 
+
+CS-1051T	Computer System	     					     	    8:00-10:00
+		and programming
+	
+CS-1051L	Computer System					                    11:45-2:45
+		and programming 
+		(LAB)
+
+ME-1012		Linear Algebra	    8:30-10:30   
+
+HU-1061		Functional                          8:30-10:30
+		English  
+
+EE-1071T	Electrical 			                     10:00-12:00
+
+		Engineering	   
+
+EE-1071L	Electrical			    12:00-3:00
+		Engineering 
+		(LAB)
+
+ME-1301		Engineering                                          8:30-10:00                          10:00-11:30
+		Material
+
+ME-1302L	Workshop           11:45-2:45								 2:00-5:00
+
+ME-1302T	Thermodynamics                      10:30-12:00                      10:00-11:30
+

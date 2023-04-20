@@ -1,0 +1,27 @@
+PLO 1 : Engineering Knowledge
+PLO 2 : Problem Analysis
+PLO 3 : Design and Development of Solution
+PLO 4 : Investigation
+PLO 5 : Modern Tool Usage
+PLO 6 : The Engineer Society
+PLO 7 : Environment and Sustainability						
+PLO 8 : Ethics
+PLO 9 : Individual And Team Work
+PLO 10 : Communication
+PLO 11 : Project Management
+PLO 12 : Life Long Learning
+
+CLO 1 : Problem Analysis
+CLO 1 : Investigation
+CLO 1 : Modern Tool Usage
+
+CLO 2 : Investigation
+CLO 2 : Problem Analysis
+CLO 2 : Modern Tool Usage
+
+CLO 3 : Problem Analysis
+CLO 3 : Design and Development of Solution
+CLO 3 : Investigation
+CLO 3 : Modern Tool Usage
+CLO 3 : Individual And Team Work
+CLO 3 : Project Management

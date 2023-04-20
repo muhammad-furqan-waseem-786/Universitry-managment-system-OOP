@@ -1,0 +1,31 @@
+Session 1 : CLO 1 : Introduction, Characteristics of a Computer History of Computers, Generations of Computer
+
+Session 2 : CLO 1 : Classification of Computers, Applications of Computer, Basic Components Computer Architecture Hardware and Software
+
+Session 3 : CLO 1 : Number Systems: Introduction, Classification of Number SystemAnalogue andDigital worldTypes of Number System, Conversions from One Base to Another
+
+Session 4 : CLO 1 : Operating system, Important Software and applications Introduction to Programming Machine Language (Evolution of Programming Language)
+
+Session 5 : CLO 1 : Analyzing a Problem (Logic Developing) Programing Execution Cycle Program Processing Cycle (C++) Algorithm and Pseudocode development Common Programming Errors
+
+Session 6 : CLO 1 : The Basics of C++ Program, Comments,Special Symbols , Reserved Words (Keywords) , Identifiers,Whitespaces, Input and output streams Data Types; Simple Data Types,Floating-Point Data TypesArithmetic Operatorsand
+
+Session 7 : CLO 1 : Execution and Debugging of a basic C++ ProgramIntroduction to Classes, Objects and Strings; Defining Class with a Member Function, Defining Member FunctionsLibrary Functions, Mathematical Library Functions Set Functions, Get Functions
+
+Session 8 : CLO 1 : If‐else Statement if Selection Statement, if-else Double-Selection Statement, Nested if Statements Formulating Algorithmsfor If Else statement Revision
+
+Session 9 : CLO 2 : Switch Statement The For loop Statement, The Nested For loops Common Errorsin For Loops Examples; algorithm development with C++ syntax
+
+Session 10 : CLO 2 : The while Statement, do-while repetition statement, The Nested Do-WhileCommon Errorsin above statements Examples; algorithm development with C++ syntax 
+
+Session 11 : CLO 2 : Function and Parameter declaration; Math Library Functions,Function Definitions with Multiple Parameters,Function Prototypes and Argument Coercion
+
+Session 12 : CLO 2 : Function and Parameter declaration C++ Standard Library Headers Case Study: Random Number Generation References and reference parameters
+
+Session 13 : CLO 3 : Arrays;Single Dimensional Arrays, Examples; algorithm development with C++ syntax
+
+Session 14 : CLO 3 : Multi-Dimensional Arrays Different kinds of array declarations e.g., Using loops with arrays Examples; algorithm development with C++ syntax
+
+Session 15 : CLO 3 : Arrays using functionsArrays using strings Passing arrays to functions Codes development of multidimensional arrays Code development of project assigned
+
+Session 16 : CLO 3 : Revision Week
